@@ -1,0 +1,9 @@
+.landing.header-links {
+    padding-right: 0rem;
+}
+.landing.header-links.navbar {
+    padding: .9rem 1rem;
+}
+.landingmenu > li {
+        padding: 0 15px;
+}
